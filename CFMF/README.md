@@ -15,7 +15,7 @@ You can install the development version of CFMF from [GitHub](https://github.com
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("bioklab/CFMF")
+install_github("ShuminYin/project_CFMF", subdir = "CFMF")
 
 
 
