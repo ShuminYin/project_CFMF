@@ -1,2 +1,2 @@
 # project_CFMF
-a clustering-free algorithm scRNAseq data
+a clustering-free algorithm for scRNA-seq data
